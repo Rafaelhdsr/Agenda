@@ -1,0 +1,10 @@
+Olá, obrigado por acessar meu portfolio.
+Aqui darei algumas instruções de como acessar o 
+aplicativo web.
+
+1 - Abra a pasta Banco_de_Dados e crie a tabela, de acordo
+com o arquivo do tipo sql salvo.
+
+2 - Se modificar o nome da tabela, por favor, alterar 
+o nome da tabela dentro do arquivo config.php, na linha
+2, que esta localizado na pasta Conexao.
